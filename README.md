@@ -1,2 +1,2 @@
 # Web-Services
-Different kind of web services.
+Different kind of web services methods.
